@@ -2,8 +2,4 @@ git add --all
 
 git commit -m "Initial commit"
 
-git push -u origin main
-
-git push -u delta-emerald-v1.1.5.zip
-
-git push -u emu
+git push -u launcher.html
